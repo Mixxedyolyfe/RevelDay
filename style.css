@@ -1,0 +1,32 @@
+body {
+	background-size: cover;
+	background: url("revelchair.jpg") fixed no-repeat;
+	background-position: center;
+}
+
+#bodynid {
+	background-color: lightgrey;
+	background-blend-mode: multiply;
+}
+
+nav {
+	color: black;
+	text-align: center;
+	font-size: 30px;
+	padding: 50px;
+}
+
+h1 {
+	color: red;
+}
+
+#nav p{
+	background: #100000;
+}
+
+#image {
+	align-content: center;
+}
+
+
+
